@@ -1,0 +1,10 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Holter Rizz",
+            "description": "Holter de lujo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hotel_Ritz_Paris.jpg" 
+        }
+    ]
+}
